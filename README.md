@@ -34,3 +34,9 @@ In this we have used two solution architectures:
 
 # Solution Files:
 Below solution files are added:
+- [GestureRecognition.ipynb](https://github.com/BurnwalAmardeep/Gesture-Recognition-using-Deep-Learning/blob/master/GestureRecognition.ipynb): Python Solution file
+- [GestureRecognition_WriteUp.docx](https://github.com/BurnwalAmardeep/Gesture-Recognition-using-Deep-Learning/blob/master/GestureRecognition_WriteUp.docx): This contains all the experiments done while building the solution
+- [model-00021-0.02425-0.99704-0.39196-0.87619.zip](https://github.com/BurnwalAmardeep/Gesture-Recognition-using-Deep-Learning/blob/master/model-00021-0.02425-0.99704-0.39196-0.87619.zip): The h5 file, this contains the trained weights for best model
+
+# Conclusion:
+We have concluded that CNN+RNN using GRU model is the best fitting model in this case with accuracy of 87.69%. The comparison of other approaches is also present in the [GestureRecognition_WriteUp.docx](https://github.com/BurnwalAmardeep/Gesture-Recognition-using-Deep-Learning/blob/master/GestureRecognition_WriteUp.docx) file
